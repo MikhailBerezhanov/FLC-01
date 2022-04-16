@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FitoLamp_Project.PrjPcb]
+   Generated File[fitolamp_pcb.GTO]
+   Generated File[fitolamp_pcb.GTP]
+   Generated File[fitolamp_pcb.GTS]
+   Generated File[fitolamp_pcb.GTL]
+   Generated File[fitolamp_pcb.GBL]
+   Generated File[fitolamp_pcb.GBS]
+   Generated File[fitolamp_pcb.GBP]
+   Generated File[fitolamp_pcb.GBO]
+   Generated File[fitolamp_pcb.GM4]
+   Generated File[fitolamp_pcb.RUL]
+   Generated File[fitolamp_pcb.EXTREP]
+   Generated File[fitolamp_pcb.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 13:07:39 On 25.10.2020

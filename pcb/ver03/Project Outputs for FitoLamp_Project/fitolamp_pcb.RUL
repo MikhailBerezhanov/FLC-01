@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\MyWorks\GrowBox_v2\board_flc\pcb\ver03\fitolamp_pcb.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_GND_Poly|Scope=Board|Minimum=15.75
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
