@@ -24,8 +24,8 @@ FLC board is based on STM32F103 and has embedded RTC timer. It has battery-power
 * __channels power control__: as mentioned above, it is possible to regulate independently each channel.  
 * __smooth power-on\off__: last but not least, smooth mode that enables light spreading step-by-step.
 
-For example, if you use _red_, _blue_ and _white_ LEDs lines as FitoLight setup, __it is possible to configure red\blue balance__.   
-In other words, __you can adjust lamp stectrum depending on plants type you grow and it's vegetative stage__.
+For example, if you use _red_, _blue_ and _white_ LEDs lines as Fito-Light setup, __it is possible to configure red\blue balance__.   
+In other words, __you can adjust lamp spectrum depending on plants type you grow and it's vegetative stage__.
 
 ![red blue balance](https://habrastorage.org/webt/oo/7-/by/oo7-by4jglop3etsxfewpemuhxo.jpeg "red blue balance")
 
