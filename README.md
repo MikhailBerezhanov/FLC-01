@@ -1,5 +1,5 @@
 # FLC-01
-## Fitolamp controller ver.3
+## Fitolamp controller ver.3 with Serial and Bluetooth connection
 
 ![board img](https://habrastorage.org/webt/fs/mx/rk/fsmxrkeqmmq0b7pfv6oscsz74zm.jpeg "Board view")
 
